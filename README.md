@@ -38,9 +38,17 @@ It was developed as a learning-focused portfolio project suitable for internship
 ---
 
 ## How to Build and Run
-1. Install **raylib** from the official website:  
-   https://www.raylib.com/
 
-2. Clone this repository:
-   ```bash
-   git clone https://github.com/Gabbas-dot/Tetris_Game
+Follow these steps to run the Tetris game:
+
+### 1. Install raylib
+- **Official website:** [https://www.raylib.com/](https://www.raylib.com/)  
+- Follow the instructions for your platform (Windows / Linux / Mac) to install the library and set up compiler paths.
+
+---
+
+### 2. Clone the Repository
+Open a terminal or command prompt and run:
+```bash
+git clone https://github.com/Gabbas-dot/Tetris_Game
+cd Tetris_Game
